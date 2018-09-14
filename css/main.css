@@ -1762,14 +1762,14 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#cc000000', GradientType=0);
 }
 
-.s-home .overlay {
+/*.s-home .overlay {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     opacity: .6;
-    background-color: #000000;
+    background-color: #000000;*/
 }
 
 .no-js .s-home {

@@ -1749,7 +1749,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     display: table;
 }
 
-.s-home .shadow-overlay {
+/*.s-home .shadow-overlay {
     position: absolute;
     top: 0;
     left: 0;

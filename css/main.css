@@ -847,8 +847,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-    background: #0e374a;
-    border-color: #0e374a;
+    background: #505050;
+    border-color: #505050;
 }
 
 
@@ -3027,7 +3027,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-content h5 {
     margin-top: 0;
-    color: #131313;
+    color: #505050;
 }
 
 .contact-content input[type="email"],
@@ -3054,7 +3054,7 @@ html.no-csstransitions .home-content__main {
 .contact-content textarea:focus,
 .contact-content select:focus {
     color: #FFFFFF;
-    border-bottom: 1px solid #0e374a;
+    border-bottom: 1px solid #505050;
 }
 
 .contact-content button,
@@ -3145,7 +3145,7 @@ html.no-csstransitions .home-content__main {
 
 .contact-social li a:hover, 
 .contact-social li a:focus {
-    color: #0e374a;
+    color: #505050;
 }
 
 .contact-social li:last-child {
@@ -3168,7 +3168,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .message-success {
-    color: #0e374a;
+    color: #505050;
 }
 
 .message-warning i, .message-success i {
